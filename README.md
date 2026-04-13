@@ -1,1 +1,2 @@
-# goit-pycore-hw-08
+
+This project extends the AddressBook console assistant by adding data persistence with the pickle module. The application serializes the AddressBook object to a file when the program closes and restores it when the program starts. This ensures that contact data is preserved between sessions.
